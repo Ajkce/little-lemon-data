@@ -16,7 +16,7 @@
     },
     {
       "name": "Grilled Fish",
-      "price": 20.00,
+      "price": 20.0,
       "description": "Fantastic grilled fish seasoned with salt.",
       "image": "grilledFish.jpg",
       "category": "mains"
@@ -26,14 +26,42 @@
       "price": 6.99,
       "description": "Delicious pasta for your delight.",
       "image": "pasta.jpg",
-      "category": "mains"      
+      "category": "mains"
     },
     {
       "name": "Lemon Dessert",
       "price": 4.99,
       "description": "You can't go wrong with this delicious lemon dessert!",
       "image": "lemonDessert.jpg",
-      "category": "desserts"      
+      "category": "desserts"
+    },
+    {
+      "name": "Cheesecake Delight",
+      "price": 6.99,
+      "description": "Indulge in the creamy goodness of our signature cheesecake. A true delight for your taste buds!",
+      "image": "cheesecake.webp",
+      "category": "desserts"
+    },
+    {
+      "name": "Chocolate Bliss Brownie",
+      "price": 5.49,
+      "description": "Satisfy your chocolate cravings with our rich and fudgy chocolate bliss brownie. Pure indulgence in every bite!",
+      "image": "chocolateBlissBrownie.jpg",
+      "category": "desserts"
+    },
+    {
+      "name": "Minty Mojito",
+      "price": 6.49,
+      "description": "Cool off with our classic minty mojito, a perfect blend of fresh mint, lime, and a hint of sweetness.",
+      "image": "mintyMojito.webp",
+      "category": "drinks"
+    },
+    {
+      "name": "Iced Caramel Macchiato",
+      "price": 4.99,
+      "description": "Indulge in the rich flavors of espresso, milk, and caramel over ice. A delightful pick-me-up!",
+      "image": "icedcaramelmacchiato.jpg",
+      "category": "drinks"
     }
   ]
 }
